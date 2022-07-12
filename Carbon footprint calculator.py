@@ -1,3 +1,4 @@
+import math
 N = int(input('Enter no. of people in your house'))
 
 #Carbon footprint due to lights
